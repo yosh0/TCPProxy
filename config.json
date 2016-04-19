@@ -1,0 +1,8 @@
+{
+  "Conf" : {
+    "Port" : "0000",
+    "Host" : "example.go",
+    "User" : "user1",
+    "Pass" : "pass1"
+  }
+}
